@@ -2,5 +2,5 @@
 
 task 2.
 
-1. compose install. 
+1. composer install. 
 2. php search.php [word].
